@@ -11,5 +11,9 @@
     "start": "node server.js"
   },
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesusmercado/yosethegame-ping-challenge.git"
+  },
   "license": "BSD-2-Clause"
 }
